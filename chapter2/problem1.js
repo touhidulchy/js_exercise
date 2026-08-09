@@ -1,4 +1,4 @@
-// Problem 1
+
 
 const name = "Touhidul muhib chy";
 const department = "Computer Science";

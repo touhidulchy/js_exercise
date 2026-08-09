@@ -1,0 +1,7 @@
+localStorage.setItem()
+localStorage.getItem()
+JSON.stringify()
+JSON.parse()
+addEventListener()
+createElement()
+appendChild()
